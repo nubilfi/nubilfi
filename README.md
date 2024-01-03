@@ -2,7 +2,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
+## <a href="https://www.youtube.com/@devactivity"><img src="https://clipground.com/images/youtube-logo-vector-clipart-5.jpg" title="Dev Activity Youtube Channel" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Ulangan Rust #5 - Program Palindrome di Rust](https://www.youtube.com/watch?v=Q--k7m4ms3s)
