@@ -8,9 +8,11 @@
 
 I'm a software engineer currently working as an IT Coordinator, where I get to blend hands-on tech work with a strategic IT management.  
 My journey spans from web development (PHP, JavaScript) to system programming and scripting (Rust, Bash, Python).  
-These days, I'm exploring the wonders of functional programming with Haskell and Erlang—just dipping my toes in!
+I use Python not only for scripting, but also for AI and machine learning projects. 
+These days, I'm exploring functional programming with Haskell and Erlang—just peeking in for now!
 
 - 🖥️ **Tech Stack:** Linux, Docker, Bash, Rust, Python, PHP, JavaScript
+- 🤖 **AI/ML:** Python for machine learning & AI stuff
 - 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 - 🛠️ **Server Stuff:** Configuration, orchestration, and all things backend
 
