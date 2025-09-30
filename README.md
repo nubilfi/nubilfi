@@ -1,14 +1,45 @@
-### 👋 Hi, I am Habil
+# Hi, I'm Habil
 
-<table><tr><td valign="top" width="50%">
+**Software Engineer | IT Coordinator | Content Creator**
 
-## <a href="https://www.youtube.com/@devactivity"><img src="https://clipground.com/images/youtube-logo-vector-clipart-5.jpg" title="Dev Activity Youtube Channel" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
- 
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [RDT #9 - Rust Development dengan Private Crate Registry (kellnr)](https://www.youtube.com/watch?v=HF0oBJ3ZmTI)
-- [RDT #8 - Obfuscation Code di Rust](https://www.youtube.com/watch?v=A53GEAUzsV4)
-- [RDT #7 - Testing dengan Sub Module di Rust](https://www.youtube.com/watch?v=vnscxfYKU-s)
-- [Ulangan Rust #8 - Pecahan Integer Dari Unsorted String di Rust](https://www.youtube.com/watch?v=Vj2EBBUKQWg)
-- [Ulangan Rust #7 - Program Combine Arrays di Rust](https://www.youtube.com/watch?v=UoiMPH3TRwI)
-<!-- YOUTUBE-VIDEOS-LIST:END --> 
-</td></tr></table>
+---
+
+## About Me
+
+I'm a software engineer currently working as an IT Coordinator, where I get to blend hands-on tech work with a strategic IT management.  
+My journey spans from web development (PHP, JavaScript) to system programming and scripting (Rust, Bash, Python).  
+These days, I'm exploring the wonders of functional programming with Haskell and Erlang—just dipping my toes in!
+
+- 🖥️ **Tech Stack:** Linux, Docker, Bash, Rust, Python, PHP, JavaScript
+- 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- 🛠️ **Server Stuff:** Configuration, orchestration, and all things backend
+
+## Favorite Projects & Inspirations
+
+- My GitHub is home to projects from ASCII webcams ([ascii-webcam](https://github.com/nubilfi/ascii-webcam)) and more.
+- I deeply admire tools like **ffmpeg** for their versatility and power.
+- Always tinkering, always learning!
+
+## Find Me Online
+
+- **Personal Website:** [repodev.com](https://repodev.com)
+- **Twitter:** [@nubilfi](https://twitter.com/nubilfi)
+- **LinkedIn:** [@ibnuhabil](https://linkedin.com/in/ibnuhabil)
+- **Content Creation (devactivity):**
+    - [GitHub](https://github.com/devactivity)
+    - [YouTube](https://youtube.com/@devactivity)
+    - [TikTok](https://tiktok.com/@devactivity)
+
+## 🎨 Fun Facts
+
+- I love pixel art—even if I'm not a designer, the aesthetic fascinates me!
+- Reading is my go-to hobby; not a heavy reader, just a curious mind.
+- I also create tech & dev content online as **devactivity**—catch my live streams and code journeys!
+
+---
+
+> “Learning never exhausts the mind.” — Leonardo da Vinci
+
+Thanks for stopping by!  
+Feel free to connect or check out my repos—always open to collaboration and new ideas.
+
