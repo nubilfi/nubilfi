@@ -32,7 +32,7 @@ These days, I'm exploring functional programming with Haskell and Erlang—just 
     - [YouTube](https://youtube.com/@devactivity)
     - [TikTok](https://tiktok.com/@devactivity)
 
-## 🎨 Fun Facts
+## Fun Facts
 
 - I love pixel art—even if I'm not a designer, the aesthetic fascinates me!
 - Reading is my go-to hobby; not a heavy reader, just a curious mind.
