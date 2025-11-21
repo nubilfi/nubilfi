@@ -11,14 +11,8 @@ My journey spans from web development (PHP, JavaScript) to system programming an
 I use Python not only for scripting, but also for AI and machine learning projects. 
 These days, I'm exploring functional programming with Haskell and Erlang—just peeking in for now!
 
-- 🖥️ **Tech Stack:** Linux, Docker, Bash, Rust, Python, PHP, JavaScript
-- 🤖 **AI/ML:** Python for machine learning & AI stuff
-- 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-- 🛠️ **Server Stuff:** Configuration, orchestration, and all things backend
+## Favorite Project & Inspiration
 
-## Favorite Projects & Inspirations
-
-- My GitHub is home to projects from ASCII webcams ([ascii-webcam](https://github.com/nubilfi/ascii-webcam)) and more.
 - I deeply admire tools like **ffmpeg** for their versatility and power.
 - Always tinkering, always learning!
 
@@ -30,7 +24,8 @@ These days, I'm exploring functional programming with Haskell and Erlang—just 
 - **Content Creation (devactivity):**
     - [GitHub](https://github.com/devactivity)
     - [YouTube](https://youtube.com/@devactivity)
-    - [TikTok](https://tiktok.com/@devactivity)
+    - [~~Banned Tiktok~~](https://tiktok.com/@devactivity)
+    - [TikTok](https://tiktok.com/@devreactivity)
 
 ## Fun Facts
 
