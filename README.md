@@ -38,5 +38,4 @@ These days, I'm exploring functional programming with Haskell and Erlang!
 
 > "Learning never exhausts the mind." - Leonardo da Vinci
 
-Thanks for stopping by!  
-Feel free to connect or check out my repos—always open to collaboration and new ideas.
+Thanks for stopping by!
