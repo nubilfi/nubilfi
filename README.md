@@ -6,10 +6,10 @@
 
 ## About Me
 
-I'm a software engineer currently working as an IT Coordinator, where I get to blend hands-on tech work with a strategic IT management.  
+I am a software engineer currently working as an IT Coordinator, where I get to blend hands-on tech work with a strategic IT management.  
 My journey spans from web development (PHP, JavaScript) to system programming and scripting (Rust, Bash, Python).  
 I use Python not only for scripting, but also for AI and machine learning projects. 
-These days, I'm exploring functional programming with Haskell and Erlang—just peeking in for now!
+These days, I'm exploring functional programming with Haskell and Erlang!
 
 ## Favorite Project & Inspiration
 
@@ -26,17 +26,17 @@ These days, I'm exploring functional programming with Haskell and Erlang—just 
     - [YouTube](https://youtube.com/@devactivity)
     - [~~Banned Tiktok~~](https://tiktok.com/@devactivity)
     - [TikTok](https://tiktok.com/@devreactivity)
+    - [Instagram](https://instagram.com/@devactivity)
 
 ## Fun Facts
 
-- I love pixel art—even if I'm not a designer, the aesthetic fascinates me!
-- Reading is my go-to hobby; not a heavy reader, just a curious mind.
-- I also create tech & dev content online as **devactivity**—catch my live streams and code journeys!
+- I love pixel art even if I am not a designer.
+- Reading is my go-to "free time" hobby; not a heavy reader, just a curious mind.
+- I also create tech & dev content online as **devactivity** catch my live streams!
 
 ---
 
-> “Learning never exhausts the mind.” — Leonardo da Vinci
+> "Learning never exhausts the mind." - Leonardo da Vinci
 
 Thanks for stopping by!  
 Feel free to connect or check out my repos—always open to collaboration and new ideas.
-
